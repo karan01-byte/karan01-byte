@@ -44,9 +44,11 @@ Welcome to my GitHub! I’m a tech enthusiast with a strong interest in full sta
 
 ---
 
-## 📬 Let’s Connect
+### 📫 Let's Connect
 
-- **Email:** [karansaini.tech01@gmail.com](mailto:karansaini.tech01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/karan-saini-543871350)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/karan01-byte)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:karansaini.tech01@gmail.com)
 
 ---
 
