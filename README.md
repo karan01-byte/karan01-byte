@@ -21,7 +21,7 @@ Welcome to my GitHub! I’m a tech enthusiast with a strong interest in full sta
 `C` `C++` `JavaScript` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`React.js` `Node.js` `Express.js` `Bootstrap` `Chart.js`
+`React.js` `Node.js` `Express.js` `Bootstrap`
 
 **Tools & Platforms:**  
 `Git & GitHub` `MongoDB` `Figma` `VS Code`
@@ -32,19 +32,6 @@ Welcome to my GitHub! I’m a tech enthusiast with a strong interest in full sta
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karan01-byte&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan01-byte&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📌 Projects (Coming Soon)
-
-I'm currently working on some exciting projects that will be made public soon:
-- Currency Converter Web App with exchange rate charts
-- Personal Portfolio Website
-- Responsive Frontend UI templates
-
-Stay tuned for more!
 
 ---
 
