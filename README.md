@@ -1,17 +1,17 @@
 # Hi there, I'm Karan !
 
-> Aspiring Software Engineer | Passionate Problem Solver
+> Software Engineer | Passionate Problem Solver
 > 
 
-Welcome to my GitHub! I’m a tech enthusiast with a strong interest in full stack web development. I’m currently pursuing my BCA and constantly working on improving my skills through hands-on projects and real-world problem solving.
+Welcome to my GitHub! I’m a tech enthusiast with a strong interest in full stack Java development. I’m currently pursuing my BCA and constantly working on improving my skills through hands-on projects and real-world problem solving.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Currently pursuing BCA (Bachelor of Computer Applications)
-- 💡 Exploring Full Stack Development with a focus on **MERN Stack**
-- ⚒️ Passionate about building useful, user-friendly web applications
+- 💡 Exploring Full Stack Development with a focus on **Java Developement**
+- ⚒️ Passionate about building useful, user-friendly web applications, Backend and scalable systems
 - 🧠 Strong believer in continuous learning and clean coding practices
 
 ---
@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m a tech enthusiast with a strong interest in full sta
 `C` `C++` `JavaScript` `HTML` `CSS` `Java`
 
 **Frameworks & Libraries:**  
-`React.js` `Node.js` `Express.js` `Bootstrap`
+`React.js` `Springboot` `Spring` `Bootstrap` `Redis`
 
 **Tools & Platforms:**  
 `Git & GitHub` `MongoDB`
